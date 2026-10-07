@@ -1,34 +1,36 @@
 # Sip. Privacy Policy
 
-*Last updated: September 2026*
+*Last updated: October 2026*
 
-Sip. ("the app") is developed by Adam Khan. This policy explains what data we collect, how we use it, and your rights.
+Sip. (“the app”) is developed by Adam Khan. This policy explains what data we collect, how we use it, and your rights.
 
 ## What we collect
 
 **Stored locally on your device:**
+
 - Your name (entered during onboarding)
-- Your daily water goal
+- Your daily water goal, and any adjustments you make to it (activity sessions, holiday mode)
 - Your water intake logs and beverage entries
-- Your app preferences (theme, music, Apple Health toggle)
+- Your app preferences (theme, vessel, reminders, music)
 - Your weekly check-in responses
+- Your daily total, kept in a private shared space on your device, ready for a future home screen widget
 
 None of this data is transmitted to our servers. It lives on your device only.
 
 **Collected by third parties:**
 
-- **RevenueCat** -- processes subscription purchases (Monthly, Annual, Lifetime). RevenueCat may collect anonymous purchase data to manage your entitlements. See RevenueCat's privacy policy at revenuecat.com/privacy.
+- **RevenueCat:** processes subscription purchases (Monthly, Annual, Lifetime) so that Sip Pro unlocks correctly. RevenueCat receives an anonymous app user ID and your purchase history, never your name or payment details. See RevenueCat’s privacy policy at revenuecat.com/privacy.
 
-- **Apple** -- App Store purchases and Apple Health data are governed by Apple's privacy policy at apple.com/privacy.
+- **Apple:** App Store purchases are handled by Apple and governed by Apple’s privacy policy at apple.com/privacy.
 
 ## Apple Health
 
-If you enable Apple Health sync, Sip. will read and write water intake data to the Apple Health app on your device. This data is not transmitted to us or any third party. You can revoke this permission at any time in your iPhone Settings.
+Apple Health sync is coming in a future update. It will be optional, and Sip. will only write your water intake to the Health app on your device. This data will not be transmitted to us or any third party, and you will be able to revoke permission at any time in your iPhone Settings.
 
 ## What we do not collect
 
 - We do not collect your email address
-- We do not collect location data
+- We do not collect location data. Travel detection uses only your device’s time zone setting, which never leaves your device
 - We do not sell your data to anyone
 - We do not use your data for advertising
 
